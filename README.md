@@ -1,2 +1,1 @@
-# ultimo
-este es un repositorio de pruebas del módulo 2 de preparación henry1111
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local 
